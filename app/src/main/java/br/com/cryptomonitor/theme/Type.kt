@@ -1,4 +1,4 @@
-package carreiras.com.github.cryptomonitor.ui.theme
+package br.com.cryptomonitor.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
